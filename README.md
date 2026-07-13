@@ -39,6 +39,7 @@ This project performs comprehensive data preprocessing and trains regression mod
 
 ## Libraries Used
 ```python
+import os #google collab couldnt load the file from drive without this module
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
