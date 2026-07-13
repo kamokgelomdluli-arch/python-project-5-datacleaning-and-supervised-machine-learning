@@ -1,0 +1,17 @@
+snapshot_date,kickoff_date,kickoff_utc,stage,fixture_type,home_team,away_team,prob_meeting,prob_home_win,prob_draw,prob_away_win,exp_home_goals,exp_away_goals
+2026-06-28,2026-06-28,2026-06-28T19:00Z,Round of 32,knockout,South Africa,Canada,1.0,0.2984,0.2848,0.4168,1.121,1.466
+2026-06-28,2026-06-29,2026-06-29T17:00Z,Round of 32,knockout,Brazil,Japan,1.0,0.4919,0.2607,0.2474,1.505,1.123
+2026-06-28,2026-06-29,2026-06-29T20:30Z,Round of 32,knockout,Germany,Paraguay,1.0,0.5514,0.2522,0.1964,2.05,0.996
+2026-06-28,2026-06-30,2026-06-30T01:00Z,Round of 32,knockout,Netherlands,Morocco,1.0,0.4244,0.279,0.2966,1.291,1.252
+2026-06-28,2026-06-30,2026-06-30T17:00Z,Round of 32,knockout,Ivory Coast,Norway,1.0,0.3351,0.2284,0.4365,1.248,1.464
+2026-06-28,2026-06-30,2026-06-30T21:00Z,Round of 32,knockout,France,Sweden,1.0,0.6592,0.1805,0.1603,2.324,1.026
+2026-06-28,2026-07-01,2026-07-01T01:00Z,Round of 32,knockout,Mexico,Ecuador,1.0,0.3922,0.3151,0.2927,0.993,0.944
+2026-06-28,2026-07-01,2026-07-01T20:00Z,Round of 32,knockout,Belgium,Senegal,1.0,0.4836,0.2491,0.2674,1.935,1.313
+2026-06-28,2026-07-01,2026-07-01T16:00Z,Round of 32,knockout,England,Congo DR,1.0,0.6232,0.2704,0.1065,2.115,0.659
+2026-06-28,2026-07-02,2026-07-02T00:00Z,Round of 32,knockout,United States,Bosnia-Herzegovina,1.0,0.6537,0.1944,0.1519,2.291,1.205
+2026-06-28,2026-07-02,2026-07-02T23:00Z,Round of 32,knockout,Portugal,Croatia,1.0,0.5302,0.2073,0.2625,1.561,1.036
+2026-06-28,2026-07-02,2026-07-02T19:00Z,Round of 32,knockout,Spain,Austria,1.0,0.6306,0.1741,0.1953,2.024,1.067
+2026-06-28,2026-07-03,2026-07-03T03:00Z,Round of 32,knockout,Switzerland,Algeria,1.0,0.4818,0.2144,0.3038,1.533,1.238
+2026-06-28,2026-07-03,2026-07-03T18:00Z,Round of 32,knockout,Australia,Egypt,1.0,0.3555,0.2445,0.4,1.236,1.044
+2026-06-28,2026-07-03,2026-07-03T22:00Z,Round of 32,knockout,Argentina,Cape Verde,1.0,0.6988,0.1987,0.1025,2.328,0.717
+2026-06-28,2026-07-04,2026-07-04T01:30Z,Round of 32,knockout,Colombia,Ghana,1.0,0.6386,0.2214,0.14,1.968,0.743
